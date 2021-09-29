@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ReadingData
+comment0.text=\n\ \ This\ class\ has\ one\ method\ that\n\ \ \ \ asks\ the\ user\ to\ enter\ the\ name\ of\ an\ input\ data\ file\n\ \ \ \ opens\ that\ data\ file\ using\ a\ Scanner\n\ \ \ \ loops\ through\ the\ data\ file\ reading\n\ \ \ \ \ \ \ name\ of\ a\ product\ (can\ contain\ spaces)\n\ \ \ \ \ \ \ the\ number\ of\ items\ on\ hand\ of\ that\ product\n\ \ \ \ \ \ \ the\ cost\ of\ one\ item\ of\ that\ product\n\ \ \ \ the\ loop\ will\ count\ how\ many\ unique\ products\ there\ are\n\ \ \ \ the\ loop\ will\ accumulate\ the\ total\ worth\ of\ the\ inventory\n\ \ \ \ oune\ loops\ exits\ when\ all\ the\ data\ is\ read\ the\ program\n\ \ \ \ will\ print\ to\ the\ screen\ the\ values\ of\ the\ counter\ and\ the\ accumulator\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
